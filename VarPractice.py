@@ -1,0 +1,9 @@
+age=10
+dec=0.7
+name="Anlisa"
+print(name)
+print(dec)
+print(age)
+type(age)
+type(dec)
+type(name)
