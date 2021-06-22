@@ -1,3 +1,4 @@
+# MYLAB3??????!!!????
 emptyList=[]
 cityList=["Oakland", "Atlanta", "New York City", "Seattle", "Memphis", "Miami", "Boston", "Los Angeles", "Denver", "New Orleans"]
 print(cityList)
@@ -21,3 +22,10 @@ waterList[4]="Columbus Clouds"
 waterList.pop(9)
 waterList.append("Water droplets")
 print(waterList)
+
+blueList=["Sky", "Ice", "Aquamarine"]
+waterList.extend(blueList)
+print(waterList)
+
+emptyList.clear
+print("The emptyList says that it feels empty and lonely(;n;)")
