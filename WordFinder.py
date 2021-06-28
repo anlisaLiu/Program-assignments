@@ -1,4 +1,4 @@
-wordList=("tuple","dictionary","integer","boolean","float","modulus","exponential","iteration","loop","while")
+wordList=("tuple","dictionary","integer","boolean","float","modulus","exponential","iteration","loop","while","hashtable","complex")
 
 def longWord(wordList):
     i=0
